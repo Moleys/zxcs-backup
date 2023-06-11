@@ -9,5 +9,6 @@ Domain:
 
 Download data:
 
-- [Torent](magnet:?xt=urn:btih:GXEUJQOVCNODA3JUGIEMKPHLPVP7UP3V&dn=zxcs%EF%BC%887681%EF%BC%89&xl=15654409214)
-- [Telegram](https://t.me/+1PYyCY1FyKE0OTg1)
+- magnet:?xt=urn:btih:GXEUJQOVCNODA3JUGIEMKPHLPVP7UP3V&dn=zxcs%EF%BC%887681%EF%BC%89&xl=15654409214
+- https://bafybeidng6asivoq4gi6xch6pwy3oy4gxg47pygk36yt2fg3opx25oi2kq.ipfs.dweb.link
+- https://t.me/+1PYyCY1FyKE0OTg1
